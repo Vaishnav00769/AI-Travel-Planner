@@ -61,8 +61,9 @@ Developed for Roamyo.ai internship program, this application demonstrates profes
 ## Configuration
 1. **Obtain API Keys:**
    [Hugging Face](https://huggingface.co/settings/tokens)
+   
    [DeepSeek](https://platform.deepseek.com/usage)
-2. **Create Secrets file:**
+3. **Create Secrets file:**
     ```bash
    # .streamlit/secrets.toml
     HF_TOKEN = "your_huggingface_token_here"
@@ -70,8 +71,10 @@ Developed for Roamyo.ai internship program, this application demonstrates profes
    ```
 ## Contact
  Developer : Vaishnav Agarwal
- email : agarwalvaishnav007@gmail.com
- LinkdIn : https://www.linkedin.com/in/vaishnav-agarwal-9498542b0/
+ 
+ email : [agarwalvaishnav007@gmail.com](agarwalvaishnav007@gmail.com)
+ 
+ LinkdIn : [Vaishnav Agarwal](https://www.linkedin.com/in/vaishnav-agarwal-9498542b0/)
 
 ## Acknowledgement's
 Roamyo.ai Internship Program
