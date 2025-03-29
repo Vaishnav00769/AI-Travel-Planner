@@ -78,6 +78,9 @@ Developed for Roamyo.ai internship program, this application demonstrates profes
 
 ## Acknowledgement's
 Roamyo.ai Internship Program
+
 Streamlit Development Team
+
 Hugging Face Open Source Community
+
 DeepSeek API Support  
