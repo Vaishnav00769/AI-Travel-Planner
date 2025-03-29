@@ -69,9 +69,9 @@ Developed for Roamyo.ai internship program, this application demonstrates profes
     DEEPSEEK_KEY = "your_deepseek_key_here"
    ```
 ## Contact
- # Developer : Vaishnav Agarwal
- # email : agarwalvaishnav007@gmail.com
- # LinkdIn : https://www.linkedin.com/in/vaishnav-agarwal-9498542b0/
+ Developer : Vaishnav Agarwal
+ email : agarwalvaishnav007@gmail.com
+ LinkdIn : https://www.linkedin.com/in/vaishnav-agarwal-9498542b0/
 
 ## Acknowledgement's
 Roamyo.ai Internship Program
